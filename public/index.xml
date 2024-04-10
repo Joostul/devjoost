@@ -13,14 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    <item>
-      <title>Split Keyboards</title>
-      <link>http://localhost:1313/posts/split-keyboards/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/split-keyboards/</guid>
-      <description>Introduction&#xD;Link to heading&#xD;This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>About me&#xD;Link to heading&#xD;I am a software engineer based in Nieuwegein, the Netherlands. Things that I like about software engineering are:&#xA;never stop learning collaborating presenting ideas and techniques Most of my experience is with the Azure cloud. I love cloud development because of the ability to script everything. Recently my experience has been mostly Azure Kubernetes Service and everything that comes with that. Although at home I have been dabbling in on premises development with my home server, which also lead me to make this page.</description>
     </item>
   </channel>
 </rss>
