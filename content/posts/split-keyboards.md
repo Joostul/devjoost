@@ -18,7 +18,7 @@ It has a qwerty layout, which means that on the start of the top row it spells o
 It has a huge spacebar that you only use with the same finger every time anyway.
 There are three rows of letters, which are staggered vertically, meaning the second row is a quarter of a key the right of the first row and the third row is an extra half of a key to the right of the second row.
 
-![A normal keyboard](/split-keyboards/normal_keyboard.jpg)
+![A normal keyboard](/images/split-keyboards/normal_keyboard.jpg)
 
 ## A bit of history
 
@@ -33,7 +33,7 @@ The vertical stagger that I discussed before is also visible.
 This was done so that the little levers on the keys would not jam together when you pressed two keys that where in close proximity to each other.
 We still basically use typewriters even though they are objectively bad to type on for a computer.
 
-![An old typewriter](/split-keyboards/typewriter.png)
+![An old typewriter](/images/split-keyboards/typewriter.png)
 
 ## Touch typing
 
@@ -46,7 +46,7 @@ And by now you also see, or feel, the problem.
 The rows are staggered and reaching for the 'y' key with your right index finger is different from reaching the 'r' key with your left index finger.
 You might be used to it by now, but it is objectively bad design.
 
-![Touch typing](/split-keyboards/touch_typing.png)
+![Touch typing](/images/split-keyboards/touch_typing.png)
 
 ## Alternative staggers
 
@@ -55,7 +55,7 @@ Although even better is a 'columnar stagger', seen in the image below.
 The reason the columnar stagger is so comfortable is because most people's fingers are not the same length.
 Your pinky finger is probably shorter than your middle finger, which is why if you want to reach the same key in the column, the column for the pinky finger should be a bit lower than the column for the middle finger.
 
-![Staggers](/split-keyboards/staggers.jpg)
+![Staggers](/images/split-keyboards/staggers.jpg)
 
 ## Keyboard layouts
 
@@ -64,4 +64,4 @@ But can we be more efficient?
 
 ## Unnatural
 
-![Charybdis nano](/split-keyboards/charybdis_nano.jpg)
+![Charybdis nano](/images/split-keyboards/charybdis_nano.jpg)
