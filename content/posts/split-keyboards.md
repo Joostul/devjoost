@@ -137,4 +137,3 @@ Then once you are soldering those pesky little connectors and writing custom fir
 ![Charybdis nano](/images/split-keyboards/sculpt.jpg)
 
 If you would like to know more I also have a [session](https://sessionize.com/s/joost-van-uitert/why-i-use-a-35-key-split-ergonomic-keyboard-and-wh/75234) about this where I go more in depth.
-
