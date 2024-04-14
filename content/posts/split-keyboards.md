@@ -40,7 +40,7 @@ We still basically use typewriters even though they are objectively bad to type 
 A quick side note on how you're supposed to type on a keyboard.
 On each keyboard there are two little bumps on the (on a qwerty layout) 'f' and 'j' keys, this row is called the home row.
 Feel them on your keyboard now.
-This is so that you can find these keys without looking with your index fingers.
+This is so you can find these keys without looking with your index fingers.
 Then you should type by moving your fingers vertically to reach the top and bottom row.
 And by now you also see, or feel, the problem.
 The rows are staggered and reaching for the 'y' key with your right index finger is different from reaching the 'r' key with your left index finger.
@@ -75,7 +75,7 @@ I chose to go with Colemak DHM, a variant of Colemak that is very popular with s
 
 ## Ergonomic problems
 
-A standard keyboard is an ergonomic nightmare for so many reasons, some of which I will go over here.
+A standard keyboard is an ergonomic nightmare for many reasons, some of which I will review here.
 For example, there is the problem of ulnar deviation, which means that your wrists are bent outwards because the arms come at our keyboards at an angle.
 
 ![Ulnar deviation](/images/split-keyboards/ulnar_deviation.jpg)
@@ -123,17 +123,22 @@ Which I must admit, wasn't easy.
 But the result is a 35-key split keyboard with built-in tenting and a trackball for a mouse.
 My hands never have to leave the keyboard again which feels amazing for productivity and ergonomics.
 
-![Charybdis nano](/images/split-keyboards/charybdis_nano.jpg)
+![My charybdis nano with 3d printed keycaps](/images/split-keyboards/charybdis_nano.jpg)
 
-## Final thoughts
+## My advice and final thoughts
 
-Do I recommend everybody to spend 300 euros on a keyboard that they have to solder themselves (bastard keyboards also sells[prebuilt](https://bastardkb.com/product/charybdis-nano-prebuilt-preorder-2/) kits) when their current solution works fine and adjusting to the new keyboard might take months?
-No, but now at least you know why your arms hurt so much when you type a lot.
+Do I recommend everybody to spend 300 euros on a keyboard that they have to solder themselves (bastard keyboards also sells [prebuilt](https://bastardkb.com/product/charybdis-nano-prebuilt-preorder-2/) kits) when their current solution works fine and adjusting to the new keyboard might take months?
+No, but now you know why your arms hurt so much when you type a lot.
 What I do recommend for anyone though is to look for ergonomic keyboards.
 Not all of them are as good or even good for you, but a good place to start is the sculpt keyboards from Microsoft.
 They are great value and already alleviate most of the symptoms you get from a normal keyboard.
-Then once you are soldering those pesky little connectors and writing custom firmware for your keyboards, you can send me some hate mail for sending you down this dark, dark path.
+In terms of layout, I would not recommend changing your keyboard layout from qwerty to something else.
+When I made the switch to my first split keyboard ([a Sofle V2](https://josefadamcik.github.io/SofleKeyboard/)), I decided I would also switch keyboard layouts at the same time.
+By only using Colemak DHM on split keyboards I can keep using qwerty whenever I need to.
+I was able to get used to a split keyboard fairly quickly.
+However, I don't know if the efficiency gains of Colemak DHM match up to the months of learning to type on it.
+One more thing: once you are soldering those pesky little connectors and writing custom firmware for your keyboards, you can send me some hate mail for sending you down this dark, dark path.
 
-![Charybdis nano](/images/split-keyboards/sculpt.jpg)
+![Microsoft sculpt keyboard](/images/split-keyboards/sculpt.jpg)
 
-If you would like to know more I also have a [session](https://sessionize.com/s/joost-van-uitert/why-i-use-a-35-key-split-ergonomic-keyboard-and-wh/75234) about this where I go more in depth.
+If you would like to know more I also have a [session](https://sessionize.com/s/joost-van-uitert/why-i-use-a-35-key-split-ergonomic-keyboard-and-wh/75234) about keyboards where I go more in-depth.
