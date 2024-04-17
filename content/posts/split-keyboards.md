@@ -1,7 +1,10 @@
 +++
-title = 'Split Keyboards'
+title = 'Why keyboards suck'
 date = 2024-04-12
 draft = false
+categories = ['Development','Keyboards']
+series = ['Split Keyboards']
+tags = ['Split Keyboards','Keyboards','Hardware']
 +++
 
 ## Introduction

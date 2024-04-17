@@ -1,6 +1,6 @@
 baseURL = 'https://devjoost.com/'
 languageCode = 'en-us'
-title = 'Joost blog'
+title = "Joost's posts"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
 
@@ -25,8 +25,6 @@ style = "github-dark"
 
   since = 2024
 
-  enableTwemoji = true
-
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
@@ -38,7 +36,6 @@ style = "github-dark"
   category = "categories"
   series = "series"
   tag = "tags"
-  author = "authors"
 
 # Social links
 [[params.social]]
@@ -54,10 +51,18 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Tags"
   weight = 2
+  url = "tags/"
+[[menu.main]]
+  name = "Series"
+  weight = 3
+  url = "series/"
+[[menu.main]]
+  name = "About"
+  weight = 4
   url = "about/"
