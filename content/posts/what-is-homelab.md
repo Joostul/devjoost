@@ -18,7 +18,7 @@ In my case, I wanted to learn more about Kubernetes from scratch and thus set up
 As mentioned, in your homelab you can experiment with all the things you want to learn more about or get experience with using without worrying about all the extra complexity that comes with office or workplace environments.
 It can very easily become a place that is constantly growing and expanding based on learning what other services and projects are possible.
 For example, I had never heard about blocking ads by running your own DNS server in [Pi-hole](https://pi-hole.net/).
-I am also running a service called [Tandoor](https://tandoor.dev/)(self-hosted instructions [here](https://docs.tandoor.dev/install/docker/)), so we can keep track of our favorite recipes and even plan our meals and grocery lists.
+I am also running a service called [Tandoor](https://tandoor.dev/) (self-hosted instructions [here](https://docs.tandoor.dev/install/docker/)), so we can keep track of our favorite recipes and even plan our meals and grocery lists.
 Another very useful addition is a storage pool which is accessible to any PC in the house using Samba shares.
 
 ## What hardware should I use?
