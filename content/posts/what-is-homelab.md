@@ -1,7 +1,7 @@
 +++
 title = 'What is a homelab?'
 date = 2024-04-25
-draft = true
+draft = false
 categories = ['Development','Servers']
 series = ['Homelab']
 tags = ['Homelab','Home Server','Servers','Personal Experience','Hardware','Selfhosting']
