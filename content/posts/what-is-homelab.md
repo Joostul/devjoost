@@ -4,7 +4,7 @@ date = 2024-04-25
 draft = true
 categories = ['Development','Servers']
 series = ['Homelab']
-tags = ['Homelab','Home Server','Servers','Personal Experience','Hardware']
+tags = ['Homelab','Home Server','Servers','Personal Experience','Hardware','Selfhosting']
 +++
 
 ## Introduction
