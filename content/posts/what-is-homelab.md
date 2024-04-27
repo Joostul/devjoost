@@ -1,6 +1,6 @@
 +++
 title = 'What is a homelab?'
-date = 2024-04-25
+date = 2024-04-27
 draft = false
 categories = ['Development','Servers']
 series = ['Homelab']
