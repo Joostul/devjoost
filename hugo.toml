@@ -3,10 +3,9 @@ languageCode = 'en-us'
 title = "Joost's posts"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
+enableEmoji = true
 
 paginate = 20
-
-# disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
