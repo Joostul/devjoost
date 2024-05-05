@@ -27,6 +27,7 @@ I personally don't have experience with macOS and if you're already on Linux, yo
 If the computer you are using is too old, you might run into problems later down the line.
 I have not experienced this myself, but I assume not everyone following this walkthrough will get through it without any problems.
 If you encounter any problems that you just can't find a way to get around, feel free to reach out.
+Make sure your server is connected to your network through a cable, otherwise you won't be able to reach it later.
 
 ## Actually getting started
 
