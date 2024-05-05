@@ -116,7 +116,7 @@ That script will be returned by the curl command.
 We then see a '|' (called a pipe) symbol, which means using the output on the left as input for the command on the right.
 Sudo just means that you want to run this command with the privileges of a superuser.
 And finally, bash just means running the script.
-When finished it should look something like this!
+When finished it should look something like this.
 Now it is time to switch to your Windows computer and follow the suggestion that the red arrow is pointed at: input the IP address on a browser.
 
 ![CasaOS installed](/images/homelab-quickstart/casaos_installed.png)
