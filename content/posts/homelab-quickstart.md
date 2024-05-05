@@ -71,6 +71,8 @@ After some scrolling text, an image similar to this should appear.
 
 ![Ubuntu language select](/images/homelab-quickstart/ubuntu_language.png)
 
+Select your preferred language and press Enter.
+
 You can probably leave the keyboard configuration screen that is up next to the selected values.
 
 The same goes for the next few screens where you select your install (select Ubuntu Server), networking (leave default), proxy address (leave blank), mirror selection (wait for it to finish and select 'done'), storage, and filesystem setup (leave default).
