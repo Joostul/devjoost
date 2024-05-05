@@ -27,6 +27,6 @@ Sometimes that will be a long post about a passion of mine, mainly:
 * (split) keyboards
 * 3D printing
 * homelabs/homeservers
-* dogs (especially my own).
+* dogs (especially my own)
 * cloud development
 * software development
