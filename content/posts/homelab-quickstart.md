@@ -2,9 +2,9 @@
 title = 'Homelab quickstart for free'
 date = 2024-05-05
 draft = false
-categories = ['Development','Servers']
+categories = ['Development','Servers','Walkthrough']
 series = ['Homelab']
-tags = ['Homelab','Home Server','Linux','Walkthrough','Hardware','level100']
+tags = ['Homelab','Home Server','Linux','Walkthrough','Hardware','level100','Docker']
 +++
 
 ## Introduction
